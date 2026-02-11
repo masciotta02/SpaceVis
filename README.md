@@ -4,3 +4,6 @@ By allowing the user to manipulate operational variables, the framework demonstr
 asset utility under stress.
 
 ![Dashboard preview](spacevis.PNG)
+
+EXECUTION:
+streamlit run SpaceVis.py
